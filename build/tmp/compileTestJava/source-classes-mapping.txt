@@ -1,0 +1,2 @@
+com/sijune/blog/springboot/web/HelloControllerTest.java
+ com.sijune.blog.springboot.web.HelloControllerTest
